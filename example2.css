@@ -1,0 +1,64 @@
+th, td {
+    border: 1px solid blue;
+    color: blue;
+    font-weight: 800;
+    font-size: 80%;
+    border-collapse: collapse;
+    padding: 5px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(236, 127, 11, 0.5);
+    border-collapse: collapse;
+}
+#heading {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+    padding: 30px;
+}
+fieldset {
+    padding-left: auto;
+    padding-right: auto;
+    border: 3px solid red;
+    text-align: center;
+}
+.cell-left{
+    width: 100px;
+}
+.cell-right{
+    width: 400px;
+}
+.textbox{
+    width: 30px;
+    border-left-color: black;
+    border-top-color: black;
+}
+.textbox1{
+    width: 350px;
+    border-left-color: black;
+    border-top-color: black;
+}
+.textbox2{
+    width: 270px;
+    border-left-color: black;
+    border-top-color: black;
+}
+.textbox3{
+    width: 150px;
+    border-left-color: black;
+    border-top-color: black;
+}
+#button {
+    text-align: center;
+}
+.legend{
+    text-align: left;
+    color: brown;
+}
+.set{
+    padding-left: 100px;
+    padding-right: 100px;
+}
